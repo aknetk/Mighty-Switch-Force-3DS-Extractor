@@ -14,6 +14,9 @@ Extraction tool for Engine Black's .vol, .anim, .image, and .wave formats, used 
 
 vol_extract.exe <filename>
 
+## Issues
+This code was part of another project, and this hasn't been tested/built for standalone use. A few header includes and some altering may be necessary to run this program.
+
 ## Special Thanks
 meh2481 for their MSFHDEx that sent me in the right general direction for the format
 https://github.com/meh2481/MSFHDEx
